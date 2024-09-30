@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/calender-reminder-app/static/css/main.bb061d1b.css",
+    "main.js": "/calender-reminder-app/static/js/main.d7cea216.js",
+    "index.html": "/calender-reminder-app/index.html",
+    "main.bb061d1b.css.map": "/calender-reminder-app/static/css/main.bb061d1b.css.map",
+    "main.d7cea216.js.map": "/calender-reminder-app/static/js/main.d7cea216.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb061d1b.css",
+    "static/js/main.d7cea216.js"
+  ]
+}
